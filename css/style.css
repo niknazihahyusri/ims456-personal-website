@@ -138,6 +138,28 @@ p.name {
   scroll-margin-block: 5px;
   text-align: center;
 }
+img.name1 {
+  height: 200px;
+  width: 150px;
+  float: right 50%;
+}
+img.name2 {
+  height: 200px;
+  width: 150px;
+  float: center;
+}
+img.name3 {
+  height: 200px;
+  width: 300px;
+}
+img.name4 {
+  height: 200px;
+  width: 150px;
+}
+img.name5 {
+  height: 200px;
+  width: 160px;
+}
 h3.age {
 	color: purple;
 	font-family: century gothic;
@@ -208,6 +230,19 @@ p.sport {
   padding: 20px;
   scroll-margin-block: 5px;
   text-align: center;
+}
+img.sport1 {
+  height: 200px;
+  width: 250px;
+  margin-left: 4%;
+}
+img.sport2 {
+  height: 200px;
+  width: 300px;
+}
+img.sport3 {
+  height: 200px;
+  width: 300px;
 }
 div.latarbio {
   background-color: lightcyan;
