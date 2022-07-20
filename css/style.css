@@ -39,6 +39,20 @@ div.biodata
   font-family: andalus;
   font-size: 100%;
 }
+div.home
+ {
+  width: 15%;
+  background: plum;
+  padding: 10px;
+  float: left;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+  color: floralwhite;
+  font-family: andalus;
+  font-size: 100%;
+}
 div.education  
 { 
   width: 15%;
