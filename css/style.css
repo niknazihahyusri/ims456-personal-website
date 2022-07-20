@@ -45,6 +45,7 @@ div.home
   background: plum;
   padding: 10px;
   float: left;
+  overflow:hidden;
   margin-left: 10%;
   margin-bottom: 20px;
   margin-top: 20px;
@@ -122,7 +123,7 @@ p.biodata {
 img.me {
   height: 350px;
   width: 320px;
-  margin-left: 38%;
+  margin-left: 34%;
 }
 h3.name {
 	color: purple;
@@ -188,6 +189,11 @@ p.birth {
   scroll-margin-block: 5px;
   text-align: center;
 }
+img.birth {
+  width: 20%;
+  height: 20%;
+  margin-left: 390px;
+}
 h3.born {
 	color: purple;
 	font-family: century gothic;
@@ -202,6 +208,9 @@ p.born {
   scroll-margin-block: 5px;
   text-align: center;
 }
+div.map {
+  margin-left: 30%;
+}
 h3.hobby {
 	color: purple;
 	font-family: century gothic;
@@ -215,6 +224,15 @@ p.hobby {
   padding: 20px;
   scroll-margin-block: 5px;
   text-align: center;
+}
+img.workout {
+  width: 200px;
+  height: 200px;
+  margin-left: 10%;
+}
+img.dance {
+  width: 200px;
+  height: 200px;
 }
 h3.sport {
 	color: purple;
