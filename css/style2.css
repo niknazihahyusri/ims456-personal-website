@@ -131,22 +131,25 @@ h1.education {
     text-align: center;
 }
 h2.primary {
-    color: darkmagenta;
+    color: darkolivegreen;
 	font-family: Book Antiqua;
 	font-size: 180%;
     text-align: justify;
+    line-height: 5px;
 }
 h3.primary {
-    color: blueviolet;
+    color: gray;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-	font-size: 160%;
+	font-size: 110%;
     text-align: justify;
+    line-height: 5px;
 }
 h4.primary {
-    color: palevioletred;
+    color: lightslategray;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	font-size: 150%;
+	font-size: 100%;
     text-align: justify;
+    line-height: 5px;
 }
 p.primary{
     color: black;
@@ -155,6 +158,87 @@ p.primary{
     text-align: justify;
 }
 ul.primary {
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h2.secondary {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.secondary {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.secondary {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.secondary{
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h2.foundation {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.foundation {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.foundation {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.foundation {
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h2.degree {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.degree {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.degree {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.degree{
     color: black;
 	font-family: century gothic;
 	font-size: 110%;
