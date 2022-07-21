@@ -271,3 +271,12 @@ div.latarbio {
   margin-bottom: 20%;
   padding: 20px;
 }
+div.latareducation {
+  background-color: lightcyan;
+  background-blend-mode: color-burn;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  padding: 20px;
+}
