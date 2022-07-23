@@ -324,3 +324,127 @@ h6.contact {
     margin-left: 25%;
 
 }
+h2.cn {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.cn {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.cn {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.cn{
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h2.liteapp {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.liteapp {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.liteapp {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.liteapp{
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h2.kpo {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.kpo {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.kpo {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.kpo {
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h2.saf {
+    color: darkolivegreen;
+	font-family: Book Antiqua;
+	font-size: 180%;
+    text-align: justify;
+    line-height: 5px;
+}
+h3.saf {
+    color: gray;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 110%;
+    text-align: justify;
+    line-height: 5px;
+}
+h4.saf {
+    color: lightslategray;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 100%;
+    text-align: justify;
+    line-height: 5px;
+}
+p.saf {
+    color: black;
+	font-family: century gothic;
+	font-size: 110%;
+    text-align: justify;
+}
+h1.experience {
+    color: darkmagenta;
+	font-family: century gothic;
+	font-size: 200%;
+    text-align: center;
+}
+img.mrsmb {
+    height: 70%;
+    width: 30%;
+    margin-left: 35%
+}
+img.mrsmpc {
+    height: 30%;
+    width: 50%;
+    margin-left: 25%
+}
